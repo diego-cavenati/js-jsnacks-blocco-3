@@ -1,5 +1,4 @@
 // Js -snack 3
-
 const animals = [
     {
         nome : 'Scoiattolo',
